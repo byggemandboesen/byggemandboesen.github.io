@@ -1,8 +1,8 @@
 theme: minima
 title: My site
+description: This site is a collection of my personal projects together with academic- & work experience
 
-minima:
-  skin: dark
+contact-list: "Test"
 
 header_pages:
   - headerpages/rfbyboesen.md
