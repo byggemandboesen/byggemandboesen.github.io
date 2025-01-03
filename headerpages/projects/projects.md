@@ -2,4 +2,6 @@
 title: Projects
 ---
 
-This page will highlight personal projects of mine
+This page highlights personal projects of mine. Explore each project by clicking through them
+
+
