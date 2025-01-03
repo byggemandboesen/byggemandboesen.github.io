@@ -1,7 +1,6 @@
 theme: minima
-
-minima:
-  skin: dark
+title: My title
+skin: dark
 
 header_pages:
   - headerpages/about.md
