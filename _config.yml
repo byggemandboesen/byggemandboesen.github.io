@@ -1,7 +1,9 @@
 theme: minima
 title: My site
-skin: dark
+
+minima:
+  skin: dark
 
 header_pages:
-  - about.md
-  - rfbyboesen.md
+  - headerpages/rfbyboesen.md
+  - headerpages/about.md
