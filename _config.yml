@@ -1,14 +1,16 @@
-remote_theme: jekyll/minima
+remote_theme: minima
 title: My site
 description: This site is a collection of my personal projects together with academic- & work experience
 author:
   name: Victor Boesen
-minima:
-  skin: dark
 
-twitter_username: <victor_boesen>
-github_username:  <byggemandboesen>
+twitter_username: victor_boesen
+github_username:  byggemandboesen
+linkedin_username: victor-boesen-gandloese
 
 header_pages:
   - headerpages/rfbyboesen.md
   - headerpages/about.md
+
+exclude:
+  - README.md
