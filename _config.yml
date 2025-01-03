@@ -8,11 +8,11 @@ github_username:  byggemandboesen
 linkedin_username: victor-boesen-gandloese
 
 header_pages:
-  - headerpages/projects.md
-  - headerpages/cv.md
-  - headerpages/rfbyboesen.md
-  - headerpages/about.md
-  - headerpages/contact.md
+  - headerpages/projects/projects.md
+  - headerpages/cv/cv.md
+  - headerpages/rfbyboesen/rfbyboesen.md
+  - headerpages/about/about.md
+  - headerpages/contact/contact.md
 
 exclude:
   - README.md
