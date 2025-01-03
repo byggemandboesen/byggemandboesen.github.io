@@ -2,9 +2,6 @@ theme: jekyll-theme-minima
 
 minima:
   skin: dark
-    social_links:
-    - { platform: github,  user_url: "https://github.com/byggemandboesen" }
-    - { platform: twitter, user_url: "https://x.com/victor_boesen" }
 
 header_pages:
   - headerpages/about.md
