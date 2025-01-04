@@ -3,9 +3,6 @@ title: My site
 description: A collection of my personal projects and my academic- & work experience
 author: Victor Boesen
 
-plugins:
-  - mathjax
-
 twitter_username: victor_boesen
 github_username:  byggemandboesen
 linkedin_username: victor-boesen-gandloese

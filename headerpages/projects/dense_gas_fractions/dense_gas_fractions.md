@@ -3,7 +3,7 @@ title: Dense Gas Fractions and Star formation Efficiencies in distant starbust g
 ---
 
 As a part of my "fagprojekt" on my second year of studying, I was fortunate enough to get the opportunity to process raw observation data from the ALMA observatory.
-This consisted of eight distant, and gravitationally lensed, starburst galaxies observed around a rest frame frequency of approximately 350-450GHz, corresponding to the $5\rightarrow4$ and $4\rightarrow3$ transitions of dense gas tracers.
+This consisted of eight distant, and gravitationally lensed, starburst galaxies observed around a rest frame frequency of approximately 350-450GHz, corresponding to the 5-to-4 and 4-to-3 transitions of dense gas tracers.
 
 ![Continuum images](assets/nonline_mfs_combined.png)
 
