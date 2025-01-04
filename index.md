@@ -1,4 +1,4 @@
-Welcome to my, mostly empty, page!
+Welcome to my page!
 
 Navigate the contents of my website using the header pages in the top.
 
